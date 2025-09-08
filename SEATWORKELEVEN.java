@@ -8,3 +8,5 @@ public class SEATWORKELEVEN {
         row++) { for (int col = 0; col < myNumbers[row].length; col++) { System.out.println("myNumbers[" + row + "][" + col + "] = " + myNumbers[row][col]); } }
         	}
             }
+           }
+          } 
