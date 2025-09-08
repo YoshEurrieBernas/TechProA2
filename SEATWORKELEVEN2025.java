@@ -1,4 +1,4 @@
- public class SEATWORKELVEN2025. java
+ public class SEATWORKELVEN
         public static void main(String[] args) {
                 System.out.println("SEATWORKELEVEN2025");
                         System.out.println();

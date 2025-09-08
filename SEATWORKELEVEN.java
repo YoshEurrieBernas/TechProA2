@@ -1,4 +1,4 @@
-public class SEATWORKELEVEN {
+public class SEATWORKELEVEN.java {
     	public static void main(String[] args) {
                     System.out.println("SEATWORKELEVEN2025");
                             System.out.println();
