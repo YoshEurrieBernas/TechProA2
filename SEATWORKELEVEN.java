@@ -1,4 +1,4 @@
-public class Main {
+public class SEATWORKELEVEN {
     	public static void main(String[] args) {
 
         System.out.println("SEATWORKELEVEN2025"); System.out.println(); int[][] myNumbers = {{1, 4, 2}, {3, 6, 8, 5, 2} };
