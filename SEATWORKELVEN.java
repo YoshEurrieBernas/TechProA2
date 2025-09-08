@@ -1,4 +1,4 @@
- public class SEATWORKELVEN2025. java
+ public class SEATWORKELVEN. java {
         public static void main(String[] args) {
                 System.out.println("SEATWORKELEVEN2025");
                         System.out.println();
@@ -10,5 +10,4 @@
                                                                     System.out.println("myNumbers[" + row + "][" + col + "] = " + myNumbers[row][col]);
                                                                                 }
                                                                                         }
-                                                                                            }
-                                                                                            }
+                                                                                }                                                                        
