@@ -1,14 +1,9 @@
-  public class Main {
-      public static void main(String[] args) {
-          int countdown = 3;
-              System.out.println("Seatworkfive");
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("SEATWORKELEVENPART2");
 
-                  while (countdown > 0) {
-                        System.out.println(countdown);
-                              countdown--;
-                                  }
-                                      
-                                          System.out.println("Happy Birthday!!");
-                                            }
-                                            }
-                                      
+        int[][] myNumbers = { {1, 4, 2}, {3, 6, 9} };
+
+        System.out.println(myNumbers[1][2]);
+    }
+}
