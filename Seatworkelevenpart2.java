@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
+public class Seatworkelevenpart2 {
+public static void main(String[] args) {
         System.out.println("SEATWORKELEVENPART2");
 
         int[][] myNumbers = { {1, 4, 2}, {3, 6, 9} };
